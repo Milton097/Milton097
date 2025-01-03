@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milton097" alt="milton097" /></a> </p>
 
-- 🔭 I’m currently working on [New Deploy 2](https://milton097.github.io/new_deploy2/)
+- 🔭 I’m currently working on [BusTicketBooking](https://github.com/Milton097/BusTicketBooking)
 
 - 🌱 I’m currently learning **JS, React, Java**
 
